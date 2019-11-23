@@ -1,0 +1,50 @@
+body
+ 		{
+ 			background:black;
+ 		}
+ 		div
+ 		{
+ 		  	
+          margin-left:400px;
+          margin-right:300px; 
+          color:white;
+ 		}
+ 		p,li{
+ 			font-size: 20px;
+ 			color:yellow;
+ 		}
+ 		h3
+ 		{
+           margin-left:1120px;
+
+            color:antiquewhite;
+ 			font-size: 14px;
+ 			
+ 		}
+        .wrap
+        {
+            color:white;
+            margin-left:650px;
+            width:155px;
+            background: red;
+        }
+        .emphasis
+        {
+             color:wheat;
+            margin-left:650px;
+        
+        }
+       ul a:hover
+        {
+            text-decoration: underline;
+            text-decoration-color: aliceblue;
+            font-size: 30px;
+        }
+        aside
+        {
+        	float: right;
+        	
+        
+        
+        	padding-bottom:1000px;
+        }
