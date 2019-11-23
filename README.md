@@ -13,6 +13,7 @@
        <p ><a style="color:chartreuse">SUBSCRIBERS 150</a></p>
     </center>
     <h2 style="color:blue">list of videos </h2>
+<ol>	  
     <li style="color: orange">MIUI 11 Features on Redmi 5a -A minor upgrade!!</li>
     <img src="1574255600717.jpg" width="150px"height="100px"/>
     <p> The new version of miui user interface has been rolled out by xiaomi to couple of devices .I got the update for my xiaomi redmi 5a which is one of the most sold smart phone under budget category .I checked out what's new in this <a style="color: red;text-decoration:none">MIUI 11.</a>In this video i explained some cool and intresting features of MIUI 11 on Redmi 5a<br/>
